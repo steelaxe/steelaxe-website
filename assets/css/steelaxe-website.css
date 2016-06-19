@@ -9,7 +9,7 @@ html {
 body{
     height: 100%;
     width: 100%;
-    background: url(/assets/images/background.png) center;
+    background: url(../images/background.png) center;
     background-size: cover;
     background-attachment:fixed;
     color: #36ffc1;
